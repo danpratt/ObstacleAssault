@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleAssaultEditor Editor Mac Development (ObstacleAssault)",
+            "compilerPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "includePath": [
+                "${workspaceFolder}\\Intermediate\\**",
+                "${workspaceFolder}\\Plugins\\**",
+                "${workspaceFolder}\\Source\\**"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "clang-arm64",
+            "compileCommands": [
+                "/Users/daniel/Documents/Unreal Projects/ObstacleAssault/.vscode/compileCommands_ObstacleAssault.json"
+            ]
+        },
+        {
+            "name": "Mac",
+            "compilerPath": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "clang-arm64",
+            "compileCommands": [
+                "/Users/daniel/Documents/Unreal Projects/ObstacleAssault/.vscode/compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}
